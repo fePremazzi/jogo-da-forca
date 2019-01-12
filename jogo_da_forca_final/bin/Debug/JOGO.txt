@@ -1,0 +1,13 @@
+P:Mario
+D:Personagem japonês.
+D:Estou sempre de Vermelho e Azul.
+D:Dirijo Kart, Jogo Golf, resgato a princesa e conquisto castelos!
+D:Sou um encanador.
+P:Homem-Aranha
+D:Sou fotografo.
+D:Moro com meus tios.
+D:Subir pelas paredes é meu hobby.
+P:Jack Sparrow
+D:Estou em 5 filmes.
+D:No ultimo filme, meu maior inimigo se chemava Salazar.
+D:Sou um pirata.
